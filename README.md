@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joshcoder14
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning reactJS, VueJS
+- 🌱 I’m currently learning VueJS
 - 💞️ I’m looking to collaborate on any specific team
 - 📫 You can reach me at johnrusselzeraus@gmail.com
 
