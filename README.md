@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @joshcoder14
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning VueJS
-- 💞️ I’m looking to collaborate on any specific team
+- 👀 Mad in programming
+- 🌱 Currently learning VueJS
+- 💞️ Looking to collaborate on any specific team
 - 📫 You can reach me at johnrusselzeraus@gmail.com
 
 <!---
