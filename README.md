@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joshcoder14
-- 👀 Mad in programming
-- 🌱 Currently working in Wordpress and learning VueJS
+- 👀 Skilled in programming
+- 🌱 Currently working in Front-end Development
 - 💞️ Looking to collaborate on any specific team
 - 📫 You can reach me at johnrusselzeraus@gmail.com
 
